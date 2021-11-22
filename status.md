@@ -10,7 +10,7 @@ Zhenyu Zhao
 
 #### Project title
 
-TODO
+ASL Translation 
 
 ***
 
